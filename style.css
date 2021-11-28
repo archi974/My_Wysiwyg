@@ -1,0 +1,11 @@
+body{
+    background: url(images/walppaper.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #2d4061;
+
+}
+h1 {
+    font-family: cursive;
+    text-align: center;
+}
